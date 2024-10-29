@@ -1,4 +1,4 @@
-# Project Title: Mauritania Data Dashboard 🇲🇱
+# Project Title: Mauritania Data Dashboard
 
 ## Overview
 
